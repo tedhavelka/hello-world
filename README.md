@@ -5,6 +5,10 @@
 
 # Ok now working on README.md text file in a first created branch.  Need to
 # find documentation and or tutorial for branching, merging and other
-# basic GIT actions at the command line. - TMH
+# basic GIT actions at the command line.
+#
+# Hmm, I'm not seeing a place in which to make commit notes.  This is
+# really important . . . TMH
+
 
 # --- OEF ---
